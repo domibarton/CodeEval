@@ -9,7 +9,7 @@
     [
         {
             "name": "Build with input file",
-            "shell_cmd": "$file input.txt"
+            "shell_cmd": "python -u $file input.txt"
         }
     ]
 }
