@@ -25,4 +25,4 @@ https://www.codeeval.com/open_challenges/25/
 '''
 for i in range(1, 100):
     if i % 2:
-        print i
+        print(i)
