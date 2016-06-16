@@ -19,12 +19,11 @@
 # <http://www.gnu.org/licenses/>.
 #
 """
-Solution for the CodeEval challenge "Bit Positions":
-https://www.codeeval.com/open_challenges/19/
+Solution for the CodeEval challenge "Template":
+https://www.codeeval.com/open_challenges/00/
 """
 import sys
 
 with open(sys.argv[1], 'r') as f:
     for l in f:
-        n, p1, p2 = [int(s) for s in l.split(',')]
-        print str(n >> (p1 - 1) & 1 == n >> (p2 - 1) & 1).lower()
+        pass
