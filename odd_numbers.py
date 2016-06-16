@@ -19,10 +19,10 @@
 # along with Dominique Barton's CodeEval solutions. If not, see
 # <http://www.gnu.org/licenses/>.
 #
-"""
+'''
 Solution for the CodeEval challenge "Odd Numbers":
 https://www.codeeval.com/open_challenges/25/
-"""
+'''
 for i in range(1, 100):
     if i % 2:
         print i

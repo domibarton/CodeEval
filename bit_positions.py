@@ -19,10 +19,10 @@
 # along with Dominique Barton's CodeEval solutions. If not, see
 # <http://www.gnu.org/licenses/>.
 #
-"""
+'''
 Solution for the CodeEval challenge "Bit Positions":
 https://www.codeeval.com/open_challenges/19/
-"""
+'''
 import sys
 
 with open(sys.argv[1], 'r') as f:

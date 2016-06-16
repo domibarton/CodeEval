@@ -19,10 +19,10 @@
 # along with Dominique Barton's CodeEval solutions. If not, see
 # <http://www.gnu.org/licenses/>.
 #
-"""
+'''
 Solution for the CodeEval challenge "Sum Of Digits":
 https://www.codeeval.com/open_challenges/21/
-"""
+'''
 import sys
 
 with open(sys.argv[1], 'r') as f:

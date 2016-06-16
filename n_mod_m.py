@@ -19,10 +19,10 @@
 # along with Dominique Barton's CodeEval solutions. If not, see
 # <http://www.gnu.org/licenses/>.
 #
-"""
+'''
 Solution for the CodeEval challenge "N Mod M":
 https://www.codeeval.com/open_challenges/62/
-"""
+'''
 import sys
 
 with open(sys.argv[1], 'r') as f:
