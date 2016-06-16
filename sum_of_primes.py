@@ -53,7 +53,7 @@ def generate_primes():
             c[n * 2] = [n]
 
         # If number is in composite dict, it's not a prime. Now things get a
-        # bit tricky. I'll try to explain them below.
+        # bit tricky. I'll try to explain it below.
         else:
             # First of all get the list of "past" multipliers which led to this
             # composite and loop through them.
