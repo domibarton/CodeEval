@@ -1,0 +1,15 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+    "build_systems":
+    [
+        {
+            "name": "Build with input file",
+            "shell_cmd": "$file input.txt"
+        }
+    ]
+}
